@@ -5,7 +5,7 @@
 
 ## Code Information:
 
-- As i have already said this is a laravel code which is work as three workflow sturucture like Model, View, Controller.
+- It describe three workflow sturucture like Model, View, Controller.
 - In this project user create a car listing where he can view, delete, update all details or listing.      
 
 # Model:
@@ -24,5 +24,5 @@
 # Controller: 
 - Controllers are meant to group associated request handling logic within a single class. 
 - They are stored in the Controllers' directory.
-- Go to controller  i have made a controller "ListingController.php" where i have made a crud system. 
+- Go to controller "ListingController.php" where we can see the crud system. 
  
